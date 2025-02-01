@@ -272,7 +272,10 @@ img:hover {
     cursor: pointer;
     transition: .5s;
 }
-
+ul {
+    margin-top: 1rem;
+    list-style: none;
+}
 /*Agenda*/
 
 .agenda__titulo {
